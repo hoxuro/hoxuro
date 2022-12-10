@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heri</h1>
-<h3 align="center">A passionate web developer from Spain</h3>
+<h3 align="center">A passionate Web Developer from Spain</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
 
 - 🔭 I’m currently studying on [I.E.S Zaidín Vergeles](https://www.ieszaidinvergeles.org/)
