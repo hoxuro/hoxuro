@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **something related with WEB DEV**
+- 💬 Ask me about **anything related with WEB DEV**
 
 - 📫 How to reach me **amezcua.cloud@gmail.com**
 
