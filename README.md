@@ -1,4 +1,4 @@
-<h1 align="center">Eyy! <link href="resources/icons8-snake-64.png" rel="icon" />, I'm Heri</h1>
+<h1 align="center">Eyy!, I'm Heri</h1>
 <h3 align="center">A passionate Web Developer from Spain</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
 
