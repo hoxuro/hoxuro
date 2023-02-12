@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/2866/2866069.png" width="50" height="50" />Eyy!, I'm Heri</h1>
+<h1 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/2866/2866069.png" width="50" height="50" />Heyy!, I'm Heri</h1>
 <h3 align="center">A passionate Web Developer from Spain</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
 
