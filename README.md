@@ -1,12 +1,10 @@
 <h1 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/2866/2866069.png" width="50" height="50" />Heyy!, I'm Heri</h1>
-<h3 align="center">A passionate Web Developer from Spain</h3>
+<h3 align="center">I am passionate about software development and have experience in projects with Java, JavaScript, Relational DataBases and more! I love solving problems and working on challenging projects. I am constantly learning and improving my technical skills.</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
 
 - 🔭 I’m currently studying on [I.E.S Zaidín Vergeles](https://www.ieszaidinvergeles.org/)
 
-- 🌱 I’m currently learning **Web Development**
-
-- 💬 Ask me about **anything related with WEB DEV**
+- 💬 Ask me about **anything related with web development**
 
 - 📫 How to reach me **amezcua.cloud@gmail.com**
 
