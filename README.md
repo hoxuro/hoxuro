@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/2866/2866069.png" width="50" height="50" />Heyy!, I'm Heri</h1>
-<h3 align="center">I am passionate about software development and have experience in projects with Java, JavaScript, Relational DataBases and more! I love solving problems and working on challenging projects. I am constantly learning and improving my technical skills.</h3>
+<h3 align="center">I am passionate about Backend development and have experience developing projects in technologies such as PHP, Laravel, MySQL, JavaScript and more! I love solving problems and working on challenging projects. I am constantly learning and improving my technical skills.</h3>
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRhOHRzODhkOXYxbGUxN2Q1dGxxd2Z4a29jaGZsdjhqcTJxYmllOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etjjDkzmBbsLS/giphy.gif">
 
 - 🔭 I’m currently studying on [I.E.S Zaidín Vergeles](https://www.ieszaidinvergeles.org/)
