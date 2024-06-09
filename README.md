@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **anything related with web development**
 
-- 📫 How to reach me **amezcua.cloud@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/heriberto-amezcua-hernández-02288420a**
 
 </br>
 
