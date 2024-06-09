@@ -2,7 +2,7 @@
 <h3 align="center">I am passionate about Backend development and have experience developing projects in technologies such as PHP, Laravel, MySQL, JavaScript and more! I love solving problems and working on challenging projects. I am constantly learning and improving my technical skills.</h3>
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRhOHRzODhkOXYxbGUxN2Q1dGxxd2Z4a29jaGZsdjhqcTJxYmllOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etjjDkzmBbsLS/giphy.gif">
 
-- 🔭 I’m currently studying on [I.E.S Zaidín Vergeles](https://www.ieszaidinvergeles.org/)
+- 🔭 I’m currently working on [Euroinnova International Bussiness School](https://www.euroinnova.edu.es/)
 
 - 💬 Ask me about **anything related with web development**
 
