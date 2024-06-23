@@ -4,7 +4,7 @@
 <br>
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRhOHRzODhkOXYxbGUxN2Q1dGxxd2Z4a29jaGZsdjhqcTJxYmllOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etjjDkzmBbsLS/giphy.gif">
 
-- 🔭 I’m currently working on [Euroinnova International Bussiness School](https://www.euroinnova.edu.es/)
+- 🔭 I am currently actively seeking employment
 
 - 💬 Ask me about **anything related with web development**
 
