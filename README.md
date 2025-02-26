@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **anything related with web development**
 
-- 📫 How to reach me **www.linkedin.com/in/heriberto-amezcua-hernández-02288420a**
+- 📫 How to reach me **www.linkedin.com/in/heribertoamezcuahernandez**
 
 </br>
 
